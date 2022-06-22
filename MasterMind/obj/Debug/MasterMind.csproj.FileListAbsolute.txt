@@ -1,0 +1,7 @@
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\obj\Debug\MasterMind.csproj.AssemblyReference.cache
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\matth\Documents\Programming\Github\Mastermind\Mastermind\MasterMind\obj\Debug\MasterMind.pdb
