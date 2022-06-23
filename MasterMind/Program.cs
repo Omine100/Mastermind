@@ -10,6 +10,10 @@ namespace Mastermind
         const int mUpperLimit = 6;
         #endregion
 
+        /// <summary>
+        /// Initial application method
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             do
@@ -20,6 +24,9 @@ namespace Mastermind
             while (Console.ReadLine().ToLower() == "y");
         }
 
+        /// <summary>
+        /// Recursively starts the game for the user
+        /// </summary>
         private static void StartGame()
         {
             Console.WriteLine("QUADAX PROGRAMMING EXERCISE");
@@ -48,6 +55,13 @@ namespace Mastermind
                 Console.WriteLine($"You lost, the answer was: {answer}\n");
         }
 
+        /// <summary>
+        /// Answer creation. I figured arrays might be faster, but thought
+        /// the code looked cleaner and easier to understand parsing
+        /// a 4-digit integer. Since efficiency is not a consideration
+        /// here I went this method.
+        /// </summary>
+        /// <returns></returns>
         public static int CreateAnswer()
         {
             int answer = 0;
